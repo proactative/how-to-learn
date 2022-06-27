@@ -1,0 +1,15 @@
+.header__link {
+  text-decoration: none;
+  color: #2f80ed;
+  opacity: 1;
+  display: inline-block;
+  transition: opacity 3s linear;
+}
+
+.header__link:hover {
+  opacity: .5;
+}
+
+.header__link:after {
+  content: ' \2192';
+}
