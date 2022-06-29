@@ -1,9 +1,10 @@
 .cards {
   list-style-type: none;
+  padding-inline-start: 0;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-column-gap: 100px;
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-rows: repeat(2, auto);
   grid-row-gap: 0;
   justify-content: space-between;
   width: 920px;
