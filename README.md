@@ -1,8 +1,15 @@
-# Проект "Научиться учиться"
+# Project "How to learn"
+![shield](https://img.shields.io/badge/status-release-brightgreen)
+![shield](https://img.shields.io/badge/version-1.0.0-blue)
 
-одностраничный сайт, информационно-познавательный
+**Description**
 
-Используются технологии: 
-- grid;
-- flex;
-- animation + keyframes.
+ This static landing page is a task within the course "web-development" at Yandex Practicum.
+
+**Technologies**
+
+- flexbox layout
+- animation and keyframes
+- BEM
+
+[**Link to the project**](https://proactative.github.io/how-to-learn)
